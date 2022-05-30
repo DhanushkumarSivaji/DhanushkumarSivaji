@@ -1,10 +1,16 @@
 # 💫About Me :
 🔭 I’m currently working on Publicis Sapient.
+
 🌱 I’m currently learning more about System Design & Data Structures.
+
 👯 I’m looking to collaborate on Blockchain Technology
+
 💬 Ask me about React or any tech-related stuff.
-📫 How to reach me: LinkedIn - Dhanush Kumar Sivaji
+
+📫 How to reach me: [LinkedIn - Dhanush Kumar Sivaji](https://www.linkedin.com/in/dhanushkumarsivaji/)
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I spend most of the time watching YT motivational videos but am still a procrastinator 😅.
 
 ## 🌐Socials
